@@ -1,0 +1,16 @@
+Quart==0.19.5
+quart-auth==0.9.1
+quart-rate-limiter==0.9.0
+quart-schema==0.19.1
+tortoise-orm==0.20.0
+aerich==0.7.2
+pydantic==2.7.0
+pydantic_core==2.18.1
+async-timeout==4.0.3
+asyncpg==0.29.0
+Flask==3.0.3
+flask-restplus==0.13.0
+requests==2.32.3
+scikit-learn==1.5.2
+pandas==2.2.3
+beautifulsoup4==4.12.3
